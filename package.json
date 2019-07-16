@@ -1,6 +1,6 @@
 {
-  "name": "fashop-policy",
-  "version": "1.0.6",
+  "name": "wowo-policy",
+  "version": "1.0.6-1",
   "description": "policy.js",
   "main": "dist/policy.min.js",
   "scripts": {
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanwenbo/policy.js.git"
+    "url": "git+https://github.com/anglli/policy.js.git"
   },
   "keywords": [
-    "fashop",
+    "wowo",
     "policy"
   ],
-  "author": "hanwenbo 9476400@qq.com",
+  "author": "wowo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hanwenbo/policy.js/issues"
+    "url": "https://github.com/anglli/policy.js/issues"
   },
-  "homepage": "https://github.com/hanwenbo/policy.js#readme",
+  "homepage": "https://github.com/anglli/policy.js#readme",
   "devDependencies": {
     "rollup": "^1.2.3",
     "rollup-plugin-babel": "^4.3.2",
